@@ -20,7 +20,7 @@ hey, guys! I'm GuoHaoqin. I come from China, work in Golang language related fie
 
 <p></p>
 
-<img alt="贡献统计" src="https://github-readme-stats.vercel.app/api?username=451008604&show_icons=true&count_private=true&locale=en&hide=prs&hide_title=true&include_all_commits=true&theme=ambient_gradient&card_width=500&hide_border=true"/>
+<!-- <img alt="贡献统计" src="https://github-readme-stats.vercel.app/api?username=451008604&show_icons=true&count_private=true&locale=en&hide=prs&hide_title=true&include_all_commits=true&theme=ambient_gradient&card_width=500&hide_border=true"/> -->
 
 <img alt="常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=451008604&layout=compact&hide_title=false&locale=en&card_width=500&theme=ambient_gradient&hide_border=true"/>
 
