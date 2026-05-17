@@ -1,5 +1,5 @@
 <h1 align="center">welcome to my space</h1>
-hey, guys! I'm GuoHaoqin. I come from China, work in Golang language related fields. Nice to meet you.👋
+hey, guys! I come from China, work in Golang language related fields. Nice to meet you.👋
 
 My belief is The code is for people to read, so first make sure the code is easy to understand, and secondly make sure the machine runs :)
 
